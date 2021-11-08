@@ -2,7 +2,7 @@
 
 An animated map of the MBTA bus stops between Harvard and MIT.
 
-![Screenshot](https://github.com/jayeclark/Bus-Map-Animation/blob/main/Bus-Map-Animation-Screenshot.png?raw=true)
+![Screenshot](https://github.com/veraphipps01/bus-stops-animation/blob/main/Screen.png?raw=true)
 
 ## Description
 This project demonstrates the ability to render a map on a web page and build and manipulate maps on web pages using the Mapbox library and API.
