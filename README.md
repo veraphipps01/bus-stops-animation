@@ -19,7 +19,7 @@ This project demonstrates the ability to render a map on a web page and build an
 * HTML
 
 ### How to Run
-<a href="https://jayeclark.github.io/bus-map-animation/index.html" target="_blank">See in action here</a>.
+<a href="https://veraphipps01.github.io/bus-stops-animation/" target="_blank">See in action here</a>.
 
 ### Planned Future Improvements
 - [ ] Change the tracker icon
